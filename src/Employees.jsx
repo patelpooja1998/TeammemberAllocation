@@ -1,4 +1,7 @@
 import {useState} from 'react';
+import femaleProfile form './src/images/femaleProfile.jpg';
+import maleProfile form './src/images/maleProfile.jpg';
+
 const Employees = () => {
   const [employees, setEmployees] = useState([{
     id: 1,
